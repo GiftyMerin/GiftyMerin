@@ -20,7 +20,7 @@
 
 Hey there! Welcome to my GitHub profile! 👋
 
-I'm **Gifty Merin**, a student and aspiring developer passionate about technology and web development. I'm currently learning the fundamentals of building websites and exploring how ideas can be transformed into interactive digital experiences.
+I'm **Gifty**, a student and aspiring developer passionate about technology and web development. I'm currently learning the fundamentals of building websites and exploring how ideas can be transformed into interactive digital experiences.
 
 - 🌱 Currently learning **HTML, CSS, and JavaScript**
 - 💻 Exploring frontend development and web technologies
@@ -156,6 +156,6 @@ I'd love to connect with other learners and developers!
 
   ⭐ Feel free to explore my repositories and follow my learning journey.
 
-  *Made with ❤️ by Gifty Merin*
+  *Made with ❤️ by Gifty*
 
 </div>
