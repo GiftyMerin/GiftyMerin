@@ -54,13 +54,77 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
-### 🌐 Languages & Web Technologies
+### 👩‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,bash" alt="Java, Python, C, C++, Bash"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React"/>
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Flutter, Dart, React Native"/>
+</p>
+
+- React Native
+
+### ⚙️ Backend & Full-Stack Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB"/>
+</p>
+
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" alt="MongoDB, MySQL, PostgreSQL, Supabase"/>
+</p>
+
+- MySQL Workbench
+
+### 🔧 Version Control & Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,canva" alt="Git, GitHub, Canva"/>
+</p>
+
+### 🚀 DevOps & CI/CD
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,githubactions" alt="Bash and GitHub Actions"/>
+</p>
+
+- CI/CD pipelines
+
+### 🤖 AI & Developer Tools
+
+<p align="left">
+  <a href="https://claude.ai/">
+    <img src="https://img.shields.io/badge/Claude-AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+  </a>
+  <a href="https://gemini.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Gemini-AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  </a>
+  <img src="https://img.shields.io/badge/API%20Integration-0A84FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="API integration"/>
+</p>
+
+- API integration and API key management
+
+---
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
+  *Always learning, building, and exploring new technologies.* 🚀
 
 </div>
 
