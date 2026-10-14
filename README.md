@@ -125,17 +125,17 @@ I'm **Gifty**, a student exploring the world of web development and learning how
     <td align="center" width="33%">
       <h3>🐛 Bug Hunter</h3>
       <p>Catch as many bugs as you can before time runs out!</p>
-      <a href="[https://giftymerin.github.io/mini-games/bug-hunter/bug.html](https://github.com/GiftyMerin/mini-games/blob/main/bug.html)">▶ Play Game</a>
+      <a href="https://github.com/GiftyMerin/mini-games/blob/main/bug-hunter/bug.html">▶ Play Game</a>
     </td>
     <td align="center" width="33%">
       <h3>🚀 Code Defender</h3>
       <p>Defend your code by shooting incoming bugs!</p>
-      <a [href="https://giftymerin.github.io/mini-games/code-defender/code.html](https://github.com/GiftyMerin/mini-games/blob/main/code-defender/code.html)">▶ Play Game</a>
+      <a href="https://github.com/GiftyMerin/mini-games/blob/main/code-defender/code.html">▶ Play Game</a>
     </td>
     <td align="center" width="33%">
       <h3>🗝️ Git Quest</h3>
       <p>Explore a changing maze, collect stars, and find the treasure!</p>
-      <a[ href="https://giftymerin.github.io/mini-games/git-quest/quest.html](https://github.com/GiftyMerin/mini-games/blob/main/git-quest/quest.html)">▶ Play Game</a>
+      <a href=" https://github.com/GiftyMerin/mini-games/blob/main/git-quest/quest.html">▶ Play Game</a>
     </td>
   </tr>
 </table>
