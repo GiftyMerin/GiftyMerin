@@ -74,7 +74,6 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
   <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Flutter, Dart, React Native"/>
 </p>
 
-- React Native
 
 ### ⚙️ Backend & Full-Stack Development
 
@@ -82,7 +81,6 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB"/>
 </p>
 
-- MERN Stack (MongoDB, Express.js, React, Node.js)
 
 ### 🗄️ Databases
 
@@ -90,7 +88,6 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" alt="MongoDB, MySQL, PostgreSQL, Supabase"/>
 </p>
 
-- MySQL Workbench
 
 ### 🔧 Version Control & Design
 
@@ -104,7 +101,6 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
   <img src="https://skillicons.dev/icons?i=bash,githubactions" alt="Bash and GitHub Actions"/>
 </p>
 
-- CI/CD pipelines
 
 ### 🤖 AI & Developer Tools
 
@@ -118,7 +114,6 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
   <img src="https://img.shields.io/badge/API%20Integration-0A84FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="API integration"/>
 </p>
 
-- API integration and API key management
 
 ---
 
@@ -190,27 +185,6 @@ Showcase another project you are proud of or remove this section if you don't ne
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiftyMerin&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <!-- This animation requires a GitHub Actions workflow to generate the SVG. -->
-
-  <img src="https://raw.githubusercontent.com/GiftyMerin/GiftyMerin/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
 
 ## 👩‍💻 Coding Time
 
