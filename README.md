@@ -1,90 +1,116 @@
-# 👋 Hi, I'm Gifty Merin!
+# 👋 Hey, I'm Gifty Merin!
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Student+%7C+Aspiring+Developer;Learning+HTML%2C+CSS+%26+JavaScript;Exploring+the+World+of+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Student+%7C+Aspiring+Developer;Learning+HTML%2C+CSS+%26+JavaScript;Building+My+Web+Development+Journey" alt="Typing SVG" />
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=GiftyMerin&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
+  <br/>
 
-  **Student | Aspiring Developer | Lifelong Learner**
+  <img src="https://komarev.com/ghpvc/?username=GiftyMerin&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
-  *Learning, building, and growing one line of code at a time.* 💙
+  <br/><br/>
+
+  *Learning today, building tomorrow, improving every day.* 💜
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-Hey there! Welcome to my GitHub profile! 👋
+🎓 Student | Aspiring Developer | Web Development Enthusiast
 
-I'm **Gifty**, a student and aspiring developer passionate about technology and web development. I'm currently learning the fundamentals of building websites and exploring how ideas can be transformed into interactive digital experiences.
+I'm **Gifty Merin**, a student exploring the world of web development and learning how to turn ideas into useful, interactive websites.
 
 - 🌱 Currently learning **HTML, CSS, and JavaScript**
-- 💻 Exploring frontend development and web technologies
-- 🎯 Working towards becoming a better developer every day
-- 📚 Interested in learning new tools, solving problems, and building projects
-- ✨ Always open to learning and exploring new ideas
+- 💻 Interested in frontend development and creating user-friendly websites
+- 🚀 Building my skills through practice and personal projects
+- 📚 Always ready to learn something new
+- 🎯 My goal is to grow as a developer and build meaningful projects
 
-> *Every expert was once a beginner. I'm enjoying the journey!*
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+  <!-- Replace the placeholders with your actual profile URLs. -->
+
+  <!--
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  -->
+
+  **GitHub:** [@GiftyMerin](https://github.com/GiftyMerin)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Languages & Web Technologies
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
+
+</div>
+
+### 🧰 Tools & Platforms
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
+
+</div>
+
+*Add or remove icons according to the tools you actually use.*
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some projects I'm working on or plan to showcase here.
+<div align="center">
 
-<!-- Replace these placeholders with your real projects and repository links. -->
+  <!-- Replace these examples with your actual repository names and descriptions. -->
 
-### 🌐 Project One — [Your Project Name](YOUR_PROJECT_REPOSITORY_URL)
+</div>
 
-A short description of your project, what it does, and what you learned while building it.
+### 🔹 [Project One](YOUR_PROJECT_REPOSITORY_URL)
 
-**Tech Stack:** HTML · CSS · JavaScript
+Describe your project, the problem it solves, and what you learned while building it.
 
-### 🎨 Project Two — [Your Project Name](YOUR_PROJECT_REPOSITORY_URL)
+**Technologies:** HTML · CSS · JavaScript
 
-Describe another project, website, or experiment you've created.
+### 🔹 [Project Two](YOUR_PROJECT_REPOSITORY_URL)
 
-**Tech Stack:** Add the technologies you used.
+Add a short description of another website, application, or coding project you've created.
 
-### 💡 Project Three — [Your Project Name](YOUR_PROJECT_REPOSITORY_URL)
+**Technologies:** Add your project technologies here.
 
-Showcase a project you're proud of, a personal website, or a new idea you're exploring.
+### 🔹 [Project Three](YOUR_PROJECT_REPOSITORY_URL)
 
-**Tech Stack:** Add the technologies you used.
+Showcase another project you are proud of or remove this section if you don't need it yet.
 
-> 💡 Replace the example names, descriptions, and repository URLs above with your actual projects. Remove any sections you don't need.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, and JavaScript" />
-</p>
-
-### 🔧 Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code" />
-</p>
-
-*Tools shown above are suggestions; remove any you don't currently use.*
+**Technologies:** Add your project technologies here.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiftyMerin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Gifty Merin's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiftyMerin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiftyMerin&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiftyMerin&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
 
 </div>
 
@@ -94,57 +120,43 @@ Showcase a project you're proud of, a personal website, or a new idea you're exp
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=GiftyMerin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=GiftyMerin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiftyMerin&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiftyMerin&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## 📫 Contact & Social Links
-
-I'd love to connect with other learners and developers!
-
-<!-- Add your actual links below and uncomment the relevant lines. -->
-
-<!--
-<p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
--->
-
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 📧 Email: Add your preferred public contact email
-- 🌐 Portfolio: Add your portfolio website when available
-
----
-
-## 👩‍💻 Coding Corner
+## 🐍 Contribution Snake
 
 <div align="center">
 
-  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding illustration" />
+  <!-- This animation requires a GitHub Actions workflow to generate the SVG. -->
 
-  ### 💭 A Little Reminder
+  <img src="https://raw.githubusercontent.com/GiftyMerin/GiftyMerin/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
-  *Keep learning. Keep experimenting. Keep creating.* ✨
+</div>
+
+---
+
+## 👩‍💻 Coding Time
+
+<div align="center">
+
+  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+
+  ### ✨ Keep Learning. Keep Building.
+
+  *Every line of code is another step forward.*
 
 </div>
 
@@ -152,10 +164,10 @@ I'd love to connect with other learners and developers!
 
 <div align="center">
 
-  **Thanks for visiting my profile! 💙**
+  **Thanks for visiting my profile! 💜**
 
-  ⭐ Feel free to explore my repositories and follow my learning journey.
+  ⭐ Explore my repositories and follow my coding journey.
 
-  *Made with ❤️ by Gifty*
+  *Made with ❤️ by Gifty Merin*
 
 </div>
