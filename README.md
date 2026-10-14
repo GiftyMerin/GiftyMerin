@@ -117,11 +117,6 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
 
 ---
 
-<div align="center">
-
-  *Always learning, building, and exploring new technologies.* 🚀
-
-</div>
 
 ### 🧰 Tools & Platforms
 
@@ -131,7 +126,6 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
 
 </div>
 
-*Add or remove icons according to the tools you actually use.*
 
 ---
 
@@ -140,6 +134,12 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
 <div align="center">
 
   <!-- Replace these examples with your actual repository names and descriptions. -->
+
+</div>
+
+<div align="center">
+
+  *Always learning, building, and exploring new technologies.* 🚀
 
 </div>
 
