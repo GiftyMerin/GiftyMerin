@@ -20,7 +20,7 @@
 
 🎓 Student | Aspiring Developer | Web Development Enthusiast
 
-I'm **Gifty Merin**, a student exploring the world of web development and learning how to turn ideas into useful, interactive websites.
+I'm **Gifty**, a student exploring the world of web development and learning how to turn ideas into useful, interactive websites.
 
 - 🌱 Currently learning **HTML, CSS, and JavaScript**
 - 💻 Interested in frontend development and creating user-friendly websites
@@ -175,11 +175,16 @@ I'm **Gifty Merin**, a student exploring the world of web development and learni
 
 </div>
 
-### 🔹 [Project One](YOUR_PROJECT_REPOSITORY_URL)
+### 🔹 Mini Games Arcade (github.com/GiftyMerin/mini-games)
 
-Describe your project, the problem it solves, and what you learned while building it.
+A collection of three interactive browser games built with HTML, CSS, and JavaScript.
+🐛 Bug Hunter
 
-**Technologies:** HTML · CSS · JavaScript
+🚀 Code Defender
+
+🗝️ Git Quest
+
+**Technologies:** HTML · CSS · JavaScript · GitHub Pages
 
 ### 🔹 [Project Two](YOUR_PROJECT_REPOSITORY_URL)
 
